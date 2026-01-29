@@ -13,10 +13,12 @@
   />
 </picture>
 
-## Sobre mim
-Tranquilo!? Sou Bruno César e atuo atualmente como Desenvolvedor Full-stack. Sou formado
+## 😅 👈
+*Hey there! I’m Bruno César, a Full-stack Developer with a background in Data Science. I’m all about constant growth and taking on big challenges. I recently took first place in a national programming competition where I had to architect a whole system from scratch in under 24 hours. That win pretty much sums me up: I learn fast, stay focused, and deliver results even when the pressure is on.*
 
-## Minhas Skills
+E aí, tranquilo? Sou o Bruno César, Desenvolvedor Full-stack e formado em Ciência de Dados. Sou movido por evolução constante e desafios de alto nível. Recentemente, conquistei o primeiro lugar em uma competição nacional de programação onde o desafio era arquitetar um sistema completo do zero em menos de 24 horas. Essa conquista resume bem o meu estilo: foco total, aprendizado rápido e entrega de resultado mesmo sob pressão.
+
+## Skills
 
 **Database**<br/>
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
