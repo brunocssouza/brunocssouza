@@ -18,6 +18,8 @@
 
 E aí, tranquilo? Sou o Bruno César, Desenvolvedor Full-stack e formado em Ciência de Dados. Sou movido por evolução constante e desafios de alto nível. Recentemente, conquistei o primeiro lugar em uma competição nacional de programação onde o desafio era arquitetar um sistema completo do zero em menos de 24 horas. Essa conquista resume bem o meu estilo: foco total, aprendizado rápido e entrega de resultado mesmo sob pressão.
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunocssouza/)
+
 ## Skills
 
 **Database**<br/>
@@ -84,7 +86,3 @@ E aí, tranquilo? Sou o Bruno César, Desenvolvedor Full-stack e formado em Ciê
     </td>
   </tr>
 </table>
-
-## Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunocssouza/)
-[![Gmail Badge](https://img.shields.io/badge/-brunoc.souza@outlook.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoc.souza@outlook.com.br)](mailto:brunoc.souza@outlook.com.br)
