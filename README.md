@@ -45,37 +45,37 @@
 
 <br/>
 
-<div style="display:flex; justify-content:center; gap:12px;">
-  <picture style="display:inline-block; vertical-align:top;">
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true"
-      style="height:200px;"
-    />
-  </picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true" height="200" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact" height="200" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-  <picture style="display:inline-block; vertical-align:top;">
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact"
-      style="height:200px;"
-    />
-  </picture>
-</div>
 
 
 
