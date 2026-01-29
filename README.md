@@ -45,9 +45,9 @@
 
 <br/>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td style="border:none; padding:0;">
       <picture>
         <source
           srcset="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true&theme=dark"
@@ -60,7 +60,7 @@
         <img src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true" height="200" />
       </picture>
     </td>
-    <td>
+    <td style="border:none; padding:0;">
       <picture>
         <source
           srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&theme=dark"
