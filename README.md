@@ -86,6 +86,5 @@ E aí, tranquilo? Sou o Bruno César, Desenvolvedor Full-stack e formado em Ciê
 </table>
 
 ## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-brunocssouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocssouza/)](https://www.linkedin.com/in/brunocssouza/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunocssouza/)
 [![Gmail Badge](https://img.shields.io/badge/-brunoc.souza@outlook.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoc.souza@outlook.com.br)](mailto:brunoc.souza@outlook.com.br)
