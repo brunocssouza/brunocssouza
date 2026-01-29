@@ -45,8 +45,12 @@
 
 <br/>
 
-![brunocssouza's Stats](https://github-readme-stats.vercel.app/api?username=brunocssouza&theme=react&show_icons=true&hide_border=true&count_private=true)
-![brunocssouza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocssouza&theme=react&show_icons=true&hide_border=true&layout=compact)
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005" />
+</a>
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Pranesh-2005&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Onde me encontrar
 
