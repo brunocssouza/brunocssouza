@@ -47,16 +47,15 @@
 
 <div align="center">
   <img
-    height="200"
     src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza"
-    style="display:inline-block;"
+    style="height: 200px; vertical-align: top;"
   />
   <img
-    height="200"
     src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&langs_count=8&card_width=320"
-    style="display:inline-block;"
+    style="height: 200px; vertical-align: top;"
   />
 </div>
+
 
 
 
