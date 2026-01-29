@@ -1,5 +1,20 @@
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 ## Sobre mim
-Tranquilo!? Sou Bruno César e atuo atualmente como Desenvolvedor Full-stack. Sou formado 
+Tranquilo!? Sou Bruno César e atuo atualmente como Desenvolvedor Full-stack. Sou formado
 
 ## Minhas Skills
 
@@ -68,15 +83,8 @@ Tranquilo!? Sou Bruno César e atuo atualmente como Desenvolvedor Full-stack. So
   </tr>
 </table>
 
-![Snake animation](https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/refs/heads/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocssouza/)](https://www.linkedin.com/in/brunocssouza/)
+[![Gmail Badge](https://img.shields.io/badge/-brunoc.souza@outlook.com.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoc.souza@outlook.com.br)](mailto:brunoc.souza@outlook.com.br)
+[![GitHub](https://img.shields.io/github/followers/brunocssouza?label=follow&style=social)](https://github.com/brunocssouza/)
