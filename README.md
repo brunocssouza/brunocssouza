@@ -1,11 +1,5 @@
-![](https://komarev.com/ghpvc/?username=brunocssouza&color=006bed)
-
 ## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+Tranquilo!? Sou Bruno César e atuo atualmente como Desenvolvedor Full-stack. Sou formado 
 
 ## Minhas Skills
 
@@ -73,6 +67,8 @@
     </td>
   </tr>
 </table>
+
+![Snake animation](https://github.com/brunocssouza/brunocssouza/blob/output/github-contribution-grid-snake.svg)
 
 
 
