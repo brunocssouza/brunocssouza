@@ -45,8 +45,8 @@
 
 <br/>
 
-[![Bruno César's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brunocssouza&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Bruno César's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=brunocssouza&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![brunocssouza's Stats](https://github-readme-stats.vercel.app/api?username=brunocssouza&theme=react&show_icons=true&hide_border=true&count_private=true)
+![brunocssouza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocssouza&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ## Onde me encontrar
 
