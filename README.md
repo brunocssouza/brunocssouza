@@ -45,9 +45,12 @@
 
 <br/>
 
-
-<img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza" />
-<img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&langs_count=8&card_width=320" />
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 ## Onde me encontrar
