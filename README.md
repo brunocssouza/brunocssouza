@@ -45,16 +45,17 @@
 
 <br/>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true&theme=transparent"
-    style="height: 200px; vertical-align: top;"
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
   />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent"
-    style="height: 200px; vertical-align: top;"
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-</div>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true" />
+</picture>
 
 
 
