@@ -45,12 +45,12 @@
 
 <br/>
 
-<div>
+<p>
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza" />
-</div>
-<div>
+</p>
+<p>
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&langs_count=8&card_width=320" />
-</div>
+</p>
 
 
 ## Onde me encontrar
