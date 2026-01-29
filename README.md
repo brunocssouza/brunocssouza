@@ -45,9 +45,8 @@
 
 <br/>
 
-<a href="https://github.com/brunocssouza" title="Bruno César">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocssouza&theme=dracula&show_icons=true" />
-</a>
+[![Bruno César's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brunocssouza&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Bruno César's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=brunocssouza&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ## Onde me encontrar
 
