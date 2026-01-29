@@ -47,11 +47,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza"
+    src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true&theme=transparent"
     style="height: 200px; vertical-align: top;"
   />
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&langs_count=8&card_width=320"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=transparent"
     style="height: 200px; vertical-align: top;"
   />
 </div>
