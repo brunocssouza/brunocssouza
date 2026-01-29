@@ -45,17 +45,38 @@
 
 <br/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Pranesh-2005&show_icons=true" />
-</picture>
+<div align="center">
+  <picture style="display:inline-block; vertical-align:top;">
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true"
+      style="height:200px;"
+    />
+  </picture>
+
+  <picture style="display:inline-block; vertical-align:top;">
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact"
+      style="height:200px;"
+    />
+  </picture>
+</div>
+
 
 
 
