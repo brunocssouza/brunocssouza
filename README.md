@@ -68,7 +68,7 @@ Tranquilo!? Sou Bruno César e atuo atualmente como Desenvolvedor Full-stack. So
   </tr>
 </table>
 
-![Snake animation](https://github.com/brunocssouza/brunocssouza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/refs/heads/output/github-contribution-grid-snake.svg)
 
 
 
