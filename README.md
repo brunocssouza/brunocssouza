@@ -45,7 +45,7 @@
 
 <br/>
 
-<div align="center">
+<div style="display:flex; justify-content:center; gap:12px;">
   <picture style="display:inline-block; vertical-align:top;">
     <source
       srcset="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true&theme=dark"
