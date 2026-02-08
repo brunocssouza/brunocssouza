@@ -58,18 +58,9 @@ E aí, tranquilo? Sou o Bruno César, Desenvolvedor Full-stack e formado em Ciê
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none; padding: 0;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true&theme=dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=brunocssouza&show_icons=true" height="200" />
-      </picture>
+        <td>
+      <img height="180em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunocssouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </td>
     <td style="border: none; padding: 0;">
       <picture>
@@ -84,9 +75,6 @@ E aí, tranquilo? Sou o Bruno César, Desenvolvedor Full-stack e formado em Ciê
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=brunocssouza&layout=compact" height="200" />
       </picture>
     </td>
-        <td>
-      <img height="180em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunocssouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </td>
+
   </tr>
 </table>
