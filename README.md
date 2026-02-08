@@ -86,7 +86,7 @@ E aí, tranquilo? Sou o Bruno César, Desenvolvedor Full-stack e formado em Ciê
     </td>
         <td>
       <img height="180em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=WillianDiasOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunocssouza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </td>
   </tr>
 </table>
