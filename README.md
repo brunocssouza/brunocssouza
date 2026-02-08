@@ -64,7 +64,7 @@ E aí, tranquilo? Sou o Bruno César, Desenvolvedor Full-stack e formado em Ciê
     </td>
        <td>
       <img height="180em"
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WillianDiasOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunocssouza&layout=compact&langs_count=6&theme=tokyonight"/>
     </td>
 
   </tr>
